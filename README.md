@@ -2,7 +2,7 @@
 
 This project is a basic template designed to help people get started with Three.js. It showcases a 3D layout of images using React and Three.js, allowing for interactive exploration of images placed in a 3D space.
 
-![Video](https://www.are.na/block/35042785)
+![Video](https://attachments.are.na/35042785/19b9ed0f111b8097f0ab8d0b719cbd6e.mp4?1741306617)
 
 ## Features
 
