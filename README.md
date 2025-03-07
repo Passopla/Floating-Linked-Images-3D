@@ -2,7 +2,7 @@
 
 This project is a basic template designed to help people get started with Three.js. It showcases a 3D layout of images using React and Three.js, allowing for interactive exploration of images placed in a 3D space.
 
-(https://d2w9rnfcy7mm78.cloudfront.net/35042926/original_cb32293a4381e0f365057a1c92d0812c.gif?1741307461)
+![Image 0](https://d2w9rnfcy7mm78.cloudfront.net/35042926/original_cb32293a4381e0f365057a1c92d0812c.gif?1741307461)
 
 ## Features
 
@@ -20,7 +20,7 @@ This project uses the following libraries:
 - [@react-three/fiber](https://github.com/pmndrs/react-three-fiber): A React renderer for Three.js
 - [@react-three/drei](https://github.com/pmndrs/drei): Useful helpers for react-three-fiber
 
-Inspired by this GIF: (https://d2w9rnfcy7mm78.cloudfront.net/25331503/original_8fd108a2dc340a19c9238bf5dac151f2.gif?1703160360)
+Inspired by this GIF: ![Inspiration GIF](https://d2w9rnfcy7mm78.cloudfront.net/25331503/original_8fd108a2dc340a19c9238bf5dac151f2.gif?1703160360)
 
 ## Installation
 
